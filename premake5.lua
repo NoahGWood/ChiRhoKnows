@@ -12,7 +12,6 @@ outputdir = "%{cfg.buildcfg}-%{cfg.system}-%{cfg.architecture}"
 group "Dependencies"
     include "depends"
     include "Vendor/imgui"
-    include "Vendor/tokenizers-cpp"
 
 group ""
 
