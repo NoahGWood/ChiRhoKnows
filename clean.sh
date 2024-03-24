@@ -1,0 +1,1 @@
+rm -rf Makefile Vendor/Makefile build bin ChiRhoKnows/Makefile
